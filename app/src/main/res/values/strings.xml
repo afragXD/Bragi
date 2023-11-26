@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bragi</string>
+    <string name="loading_failed">Ошибка загрузки</string>
+    <string name="retry">Повторить</string>
+    <string name="loading">Загрузка..</string>
+
+    <string name="description">Описание:</string>
+    <string name="info">Информация:</string>
+
+    <string name="rating">Рейтинг: </string>
+    <string name="status">Перевод: </string>
+    <string name="chapters">Переведено глав: </string>
+    <string name="year">Год издания: </string>
+    <string name="author">Авторы: </string>
+
+    <string name="start_read">Начать читать</string>
+    <string name="resume_read">Продолжить чтение</string>
+
+    <string name="before">назад</string>
+    <string name="next">вперед</string>
+    <string name="chapter_list">ОГЛАВЛЕНИЕ</string>
+</resources>
